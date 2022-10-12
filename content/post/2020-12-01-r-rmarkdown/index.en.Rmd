@@ -1,32 +1,30 @@
 ---
-title: "Hello R Markdown"
-author: "Frida Gomam"
-date: 2020-12-01T21:13:14-05:00
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+title: "Build a Website with Blogdown"
+author: "Beatriz Couto Ribeiro"
+date: 2022-10-11T21:13:14-05:00
+#categories: ["R"]
+#tags: ["R Markdown", "plot", "regression"]
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include=FALSE, echo=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# R Markdown
+Under construction, further information <https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/>.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-You can embed an R code chunk like this:
-
-```{r cars}
+```{r cars, include=FALSE, echo=FALSE}
 summary(cars)
 fit <- lm(dist ~ speed, data = cars)
 fit
 ```
 
+
+
+```{r pie, fig.cap='A fancy pie chart.', include=FALSE, tidy=FALSE, echo=FALSE}
 # Including Plots
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
+# You can also embed plots. See Figure \@ref(fig:pie) for example:
 
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
 par(mar = c(0, 1, 0, 1))
 pie(
   c(280, 60, 20),

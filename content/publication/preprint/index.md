@@ -1,8 +1,8 @@
 ---
-title: "An example preprint / working paper"
+title: "Working paper: The Landscape of Regulatory Tools to foster Innovation and Technology in the Electricity Sector"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2023-01-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

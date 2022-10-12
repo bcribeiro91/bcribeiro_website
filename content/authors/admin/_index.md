@@ -20,21 +20,20 @@ organizations:
     url: https://www.unicamp.br/unicamp/english
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include policy evaluation of science, technology, and innovation (STI) in energy, water, and sewage sectors.
 
 # Interests to show in About widget
 interests:
-  - Science, Technology, and Innovation (STI)
+  - Policy Evaluation of Science, Technology, and Innovation (STI)
   - Energy Sectors
-  - Water and Sewage Sector
-  - Policy Evaluation
+  - Water and Sewage Sector 
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Economics
       institution: Technical University of Berlin (TUB) & University of Campinas (UNICAMP) 
-      year: expected in 2023
+      year: Expected 2023
     - course: MSc. in Human and Social Applied Sciences
       institution: University of Campinas (UNICAMP)
       year: 2017
@@ -89,4 +88,4 @@ My research interests include studying the science, technology, and innovation (
 
 In my dissertation I am researching regulatory tools to foster innovation in energy sectors. Please contact me if you are interested in research collaboration, or if you want to know more about my work.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}}  I am on the Economics job market during the 2022-23 academic year, please feel free to download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
